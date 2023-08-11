@@ -1,0 +1,40 @@
+body{
+background-color: rgb(247, 183, 100);
+font-family: 'Roboto', sans-serif;
+}
+
+.main_div{
+   background-color: rgb(252, 239, 120);
+   color: aliceblue; 
+   font-size:bold;
+}
+
+.main_div p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(244, 84, 84);
+    font-size: 12px;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+.div_2 button{
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 135px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(4, 4, 26);
+    background-color: rgb(117, 135, 255);
+    bottom: 0;
+    width: 100%;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 6px 6px 6px rgb(0, 0, 0);
+}
